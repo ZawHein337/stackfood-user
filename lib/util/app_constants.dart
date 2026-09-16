@@ -8,7 +8,7 @@ class AppConstants {
   static const String appName = 'StackFood';
   static const double appVersion = 9.3; ///Flutter SDK: 3.47.2
 
-  static const String fontFamily = 'Noto Sans Myanmar';
+  static const String fontFamily = 'NotoSansMyanmar';
   static const Color primaryColor = Color(0xFFFF8200);
   static const bool payInWevView = false;
   static const String webHostedUrl = 'https://stackfood-dev-react.6amdev.xyz';
